@@ -1,0 +1,49 @@
+Welcome to our tower defense ! 
+In order to get the most out of a complete 
+and exciting gaming experience please read
+ the following instructions carefully:
+
+Monster stat:
+Elephant: 300 HP, Slow
+Fox: 150 HP, Fast
+Man: 250 HP, Normal
+
+Like in any tower defense you need a map. 
+We offer you several in order to play the
+game directly.
+If you want you can create a map yourself.
+
+Map requirements:
+Use the file "Your Map" in the map folder.
+Please don't touch the '.' and 'x' frames
+already in the file.
+This frame represents the border of your 
+window so everything you create inside this
+frame will be in the window.
+The path must start at the beginning of the
+file. The path should start to the 
+right of the x located on the first colon 
+and end on the x of the last colon.
+The path consists of 'x' and '.'
+
+Now let’s see how we play our tower defense.
+
+This tower defense works in waves of enemies.
+If 3 enemies arrive at the end of your 
+file you have lost. The number of waves 
+is infinite. You can put the 4 four types
+of tower or you want on the map as long as
+it is near the path.
+
+Putting down a tower will cost you 20 pieces.
+To place it nothing simpler, select the type
+of tower at the bottom of your map and left
+click on the location of your choice. To sell
+them double click on the tower you will get
+10 pieces. To improve a tower and increase
+its demage, radius and tower and gunshot per
+second by 20% right click on this one.
+Finally killing an enemy will get you 5 pieces.
+A pause menu is available by pressing echap.
+
+Good game and have fun!!!
