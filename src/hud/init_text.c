@@ -24,7 +24,7 @@ text_t new_text(const char *str, game_t *game)
     sfText_setOutlineThickness(text.text, 2);
     sfText_setOutlineColor(text.text, sfBlack);
     a = (float)sfText_getCharacterSize(text.text);
-    len += sfText_getLineSpacing(text.text) * (my_strlen(str) - 1);
+    len += (my_strlen(str) - 1);
     len += a * my_strlen(str);
     text.entity.transform.size.x = len;
     text.entity.transform.size.y = a;
